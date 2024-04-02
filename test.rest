@@ -1,0 +1,4 @@
+# -*- mode: restclient; -*-
+#
+
+GET http://localhost:9090/items/1?q=somequery4
